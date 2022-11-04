@@ -18,7 +18,7 @@
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 
 
-### Github Stats
+### Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeaktas)](https://github.com/ozgeaktas/github-readme-stats)
 
