@@ -4,11 +4,11 @@
 - 🌱 My career goal is to work as a full-stack developer.
 - 📫 How to reach me: ozgdaktas@gmail.com
 
-### Reach Me Please:
+### Contact :
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white)](https://github.com/ozgeaktas)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ozgeaktass) 
 
-### Used Technologies:
+### Tools:
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) 
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
@@ -18,6 +18,7 @@
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 
 <br>
+### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeaktas)](https://github.com/ozgeaktas/github-readme-stats)
 
