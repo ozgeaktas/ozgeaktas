@@ -17,7 +17,7 @@
 [![Eclipse](https://badgen.net/badge/icon/eclipse?icon=eclipse&label)](https://https://eclipse.org/)
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 
-<br>
+
 ### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeaktas)](https://github.com/ozgeaktas/github-readme-stats)
