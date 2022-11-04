@@ -11,6 +11,8 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeaktas)](https://github.com/ozgeaktas/github-readme-stats)
+
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ozgeaktas&show_icons=true&theme=radical)
 
