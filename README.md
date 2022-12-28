@@ -3,6 +3,7 @@
 - 🔭 I’m computer engineering student at Bursa Technical University.
 - 🌱 My career goal is to work as a full-stack developer.
 - 📫 How to reach me: ozgdaktas@gmail.com
+- LeetCode account: https://leetcode.com/ozgeaktas/
 
 ### Contact :
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white)](https://github.com/ozgeaktas)
